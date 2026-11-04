@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Nepni\\Documents\\GitHub\\ProgFund-Tut4\\negative number check\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C22A40-BFB1-4A5A-8FA2-9EAC7D79507B}|negative number check.vcxproj|C:\\Users\\Nepni\\Documents\\GitHub\\ProgFund-Tut4\\negative number check\\negative number check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5C22A40-BFB1-4A5A-8FA2-9EAC7D79507B}|negative number check.vcxproj|solutionrelative:negative number check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "negative number check.cpp",
+              "DocumentMoniker": "C:\\Users\\Nepni\\Documents\\GitHub\\ProgFund-Tut4\\negative number check\\negative number check.cpp",
+              "RelativeDocumentMoniker": "negative number check.cpp",
+              "ToolTip": "C:\\Users\\Nepni\\Documents\\GitHub\\ProgFund-Tut4\\negative number check\\negative number check.cpp",
+              "RelativeToolTip": "negative number check.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-02T19:40:09.502Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
